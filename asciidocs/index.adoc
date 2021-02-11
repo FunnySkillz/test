@@ -15,7 +15,7 @@ ifdef::backend-html5[]
 //toc::[]
 
 == Header 1
-
-
+<<test01.adoc#, op01>>
+<<test02.adoc#, 02 project proposal>>
 === Header 2
 
